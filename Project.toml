@@ -1,9 +1,10 @@
-name = "TinySim.jl"
+name = "TinySim"
 uuid = "7ddf2366-2435-4d7f-856f-8670b2b6ed5e"
-authors = ["Yusheng Zhao<yushengzhao2020@outlook.com>",]
+authors = ["Yusheng Zhao<yushengzhao2020@outlook.com>"]
 version = "0.1.0"
 
 [deps]
+Graphs = "86223c79-3864-5bf0-83f7-82e725a168b6"
 
 [compat]
 julia = "1.8"
