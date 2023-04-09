@@ -1,0 +1,9 @@
+name = "TinySim.jl"
+uuid = "7ddf2366-2435-4d7f-856f-8670b2b6ed5e"
+authors = ["Yusheng Zhao<yushengzhao2020@outlook.com>",]
+version = "0.1.0"
+
+[deps]
+
+[compat]
+julia = "1.8"
