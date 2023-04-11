@@ -45,3 +45,7 @@ https://www.sciencedirect.com/science/article/pii/0095895684900133
 function treedecomp(G::AbstractGraph)
 
 end
+
+
+# the tree constructions and such
+# # are already there at OMEinsum.jl check there.
